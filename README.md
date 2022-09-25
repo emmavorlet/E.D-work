@@ -4,7 +4,7 @@ this project consist the below;
 
 shell input and output redirection(THE SHELL)
 
-C programming language(with the below concept)
+C programming language(with the below following)
 funtions
 condictional
 loops
